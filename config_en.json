@@ -88,7 +88,7 @@
       "hideStore": false,
       "hideTitle": false,
       "enableRating": true,
-      "showStockStatus": true,
+      "showStockStatus": false,
       "hideEmptyProductListRating": false,
       "showHeart": false,
       "showCartButton": false,
